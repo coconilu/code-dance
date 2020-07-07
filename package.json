@@ -1,6 +1,6 @@
 {
   "name": "code-dance",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "main": "src/index.js",
   "author": "bayeswang <827130441@qq.com> (https://github.com/coconilu/Blog)",
   "license": "MIT",
@@ -32,10 +32,8 @@
   "dependencies": {
     "prismjs": "^1.20.0",
     "prop-types": "^15.7.2",
-    "velocity-react": "^1.4.3"
-  },
-  "peerDependencies": {
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "velocity-react": "^1.4.3"
   }
 }
