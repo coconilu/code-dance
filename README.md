@@ -9,7 +9,7 @@
 ## 体验
 
 ```
-git clone 
+git clone https://github.com/coconilu/code-dance.git
 yarn
 yarn dev
 ```
