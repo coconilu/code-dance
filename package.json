@@ -1,7 +1,8 @@
 {
   "name": "code-dance",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "main": "src/index.js",
+  "description": "代码演示工具，突出代码改动部分。会对比前后传入的代码片段，尽量保留未改动的代码段，移除不存在的代码段，添加新的代码段。",
   "author": "bayeswang <827130441@qq.com> (https://github.com/coconilu/Blog)",
   "license": "MIT",
   "keywords": [
