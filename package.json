@@ -1,6 +1,6 @@
 {
   "name": "code-dance",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "main": "lib/bundle.js",
   "module": "lib/bundle.es.js",
   "description": "代码演示工具，突出代码改动部分。会对比前后传入的代码片段，尽量保留未改动的代码段，移除不存在的代码段，添加新的代码段。",
